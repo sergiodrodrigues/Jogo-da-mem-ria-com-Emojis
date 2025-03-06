@@ -1,2 +1,2 @@
-# Jogo-da-mem-ria-com-Emojis
+# Jogo da memória com Emojis
  Criando um Jogo da memória com Emojis Utilizando Javascript.
